@@ -1,4 +1,4 @@
-# COVID-19-Analysis
+# COVID-19-Analysis Dashboard on PowerBI
 Create a storyboard showing spread of Covid-19 cases in your country or
 any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 ● Use animation, timeline and annotations to create attractive and interactive
